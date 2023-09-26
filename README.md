@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Como um amante de tecnologia e curioso desde a infância, sempre procurei saber como as coisas funcionavam. Aos 10 anos tive meu primeiro contato com um computador e ali começou minha jornada. Assim como qualquer criança da minha época, sempre fui aficionado por video-games. Comecei então a criar meus primeiros jogos para computador("utilizando a infame engine The Games Factory").<br><br>Então, quando fiz 18, depois de longos anos sem contato com computação, reascendi a minha paixão quando tive meu primeiro contato com Python. Como de costume, as nossas primeiras linhas de código nós nunca esquecemos. Decidi finalmente que ser programador era a minha missão. Programar me fazia e, ainda me faz me sentir vivo!</p>
+<p align="left">Como um amante de tecnologia e curioso desde a infância, sempre procurei saber como as coisas funcionavam. Aos 10 anos tive meu primeiro contato com um computador e ali começou minha jornada. Assim como qualquer criança da minha época, sempre fui aficionado por video-games. Comecei então a criar meus primeiros jogos para computador("utilizando a infame engine The Games Factory").<br><br>Então, quando fiz 18, depois de longos anos sem contato com computação, reascendi a minha paixão quando tive meu primeiro contato com Python. Como de costume, as nossas primeiras linhas de código nós nunca esquecemos. Decidi finalmente que ser programador era a minha missão. Programar me fazia e, ainda, me faz sentir vivo!</p>
 
 ###
 
