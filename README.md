@@ -1,20 +1,24 @@
-<h1 align="left">Welcome! Me chamo Gabriel!</h1>
+<h1 align="left">Olá! Eu sou o Gabriel. 👋</h1>
 
 ###
 
-<h4 align="left">"Apaixonado por tecnologia, resolvendo problemas reais por meio de linhas de código..."</h4>
+<h4 align="left">"Transformando curiosidade em conhecimento e ideias em soluções através da programação."</h4>
 
 ###
 
-<p align="left">Como um amante de tecnologia e curioso desde a infância, sempre procurei saber como as coisas funcionavam. Aos 10 anos tive meu primeiro contato com um computador e ali começou minha jornada. Assim como qualquer criança da minha época, sempre fui aficionado por video-games. Comecei então a criar meus primeiros jogos para computador("utilizando a infame engine The Games Factory").<br><br>Então, quando fiz 18, depois de longos anos sem contato com computação, reascendi a minha paixão quando tive meu primeiro contato com Python. Como de costume, as nossas primeiras linhas de código nós nunca esquecemos. Decidi finalmente que ser programador era a minha missão. Programar me fazia e, ainda, me faz sentir vivo!</p>
+Desde criança, sempre tive curiosidade em entender como as coisas funcionam. Meu primeiro contato com um computador aconteceu aos 10 anos e, desde então, a tecnologia passou a fazer parte dos meus interesses.
 
-###
+Naquela época, minha paixão por videogames acabou despertando também o interesse pelo desenvolvimento de jogos. Foi assim que comecei minhas primeiras experiências criando pequenos projetos utilizando a The Games Factory. Mesmo sem compreender muito sobre programação, já existia ali uma vontade de criar, experimentar e descobrir o que era possível fazer com um computador.
 
-<p align="left"></p>
+Anos depois, aos 18, tive a oportunidade de reencontrar esse interesse. Meu primeiro contato com Python reacendeu algo que, apesar do tempo, nunca havia desaparecido completamente. Aquelas primeiras linhas de código foram o ponto de partida para uma decisão que mudaria meus objetivos: transformar minha curiosidade por tecnologia em uma carreira.
 
-###
+Hoje, sigo aprofundando meus conhecimentos em desenvolvimento de software, explorando diferentes tecnologias e buscando compreender não apenas como desenvolver uma solução, mas também os problemas que ela pode resolver.
 
-<h2 align="left">Linguagens e tecnologias que domino:</h2>
+Acredito que programar vai muito além de escrever código. É sobre raciocinar, investigar, aprender continuamente e transformar ideias em algo concreto.
+
+Ainda tenho muito a aprender, muitos problemas para resolver e inúmeras ideias para tirar do papel. E é justamente isso que torna essa jornada tão interessante. 🚀
+
+<h2 align="left">Tecnologias com as quais trabalho:</h2>
 
 ###
 
@@ -22,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -37,6 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/>
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
